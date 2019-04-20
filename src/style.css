@@ -1,0 +1,9 @@
+@font-face {
+font-family: 'Helvetica Neue';
+    src: url("./assets/font/Helvetica Neue.ttf");
+}
+
+#clock {
+    width: 256px;
+    height: 256px;
+}
